@@ -5,6 +5,7 @@ twine
 wheel>=0.29
 
 # data science
+pyarrow
 numpy
 pandas
 matplotlib
@@ -14,6 +15,7 @@ seaborn
 requests
 
 # utils
+python-dotenv
 ipython
 etherscan-python
 dune-client
