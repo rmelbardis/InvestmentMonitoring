@@ -26,7 +26,7 @@ The various impacts on the capital pool are summarised in the waterfall chart be
 → Members can track in/outflows on the [Ratcheting AMM Dune Dashboard](https://dune.com/nexus_mutual/ramm)
 → Members can track the cover income on the [Covers Dune Dashboard](https://dune.com/nexus_mutual/covers)
 
-## End of Month Pool Split
+### End of Month Pool Split
 
 The split of the Capital Pool at the end of Oct '25 in ETH terms is as follows.
 

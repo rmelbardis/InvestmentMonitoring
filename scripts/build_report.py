@@ -72,7 +72,7 @@ def build_report(content: dict, output_path: Path) -> None:
 
     # End of Month Pool Split
     lines += [
-        "## End of Month Pool Split",
+        "### End of Month Pool Split",
         "",
         f"The split of the Capital Pool at the end of {month_abbr} '{year_short} in ETH terms is as follows.",
         "",
