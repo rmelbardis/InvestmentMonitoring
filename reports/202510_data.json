@@ -1,0 +1,11 @@
+{
+  "yyyymm": "202510",
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/investment_returns.png"
+  },
+  "investment_returns": "stETH Monthly Return: 30.286\nstETH Monthly APY: 2.834%\n\nrETH Monthly Return: 24.387\nrETH Monthly APY: 2.583%\n\nEnzyme Vault Monthly Return: 19.265\nEnzyme Vault Monthly APY: 1.539%\nEnzyme Vault includes EtherFi investments\n\nTotal ETH Earned: 73.939\nTotal Monthly APY: 1.848%\nBased on average Capital Pool amount over the monthly period\n\nAll returns after fees",
+  "summary": "State of the Capital Pool\n\nCapital Pool Percentage Change (ETH) = -4.61%\nOpening Capital Pool (ETH) = 49,538.53\nClosing Capital Pool (ETH) = 47,252.77\n\nOpening Book Value per NXM = 0.023885\nClosing Book Value per NXM = 0.024108\n\nstETH Divestment, date: 22-10-2025, amount = 2,001.20"
+}

@@ -17,8 +17,13 @@ requests
 # utils
 python-dotenv
 ipython
+python-docx
 etherscan-python
 dune-client
+
+# newsletter generation
+nbconvert
+python-docx
 
 # jupyter
 jupyter-contrib-core==0.4.0

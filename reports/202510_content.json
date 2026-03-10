@@ -1,0 +1,24 @@
+{
+  "yyyymm": "202510",
+  "month_year": "October 2025",
+  "intro": "The Investment Committee team presents its October 2025 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "capital_pool_eth_paragraph": "The Capital Pool decreased by 4.61% in ETH terms this month, from 49.5k to 47.3k ETH. Withdrawals through the RAMM, which totaled 2.7k ETH in redemptions, were the primary factor in this decline. A positive stablecoin FX impact, Cover Fee income, and Investment returns all contributed positively.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM value rose from 0.023885 to 0.024108, representing an 11.7% annualized increase for the month. This growth was primarily driven by the positive stablecoin FX impact, with additional contributions from RAMM activity and investment returns.",
+  "investment_summary_paragraph": "Active staking investments yielded between 1.5% and 2.8% APY this month, reflecting healthy ETH staking returns. Overall, based on the average Capital Pool value for the month, investments returned 1.8% APY.",
+  "investment_table": {
+    "steth_return": 30.286,
+    "steth_apy": 2.834,
+    "reth_return": 24.387,
+    "reth_apy": 2.583,
+    "enzyme_return": 19.265,
+    "enzyme_apy": 1.539,
+    "total_return": 73.939,
+    "total_apy": 1.848
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202510/investment_returns.png"
+  }
+}
