@@ -1,0 +1,24 @@
+{
+  "yyyymm": "202511",
+  "month_year": "November 2025",
+  "intro": "The Investment Committee team presents its November 2025 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "capital_pool_eth_paragraph": "The Capital Pool decreased by 0.19% in ETH terms this month, from 47.3k to 47.2k ETH. Withdrawals through the RAMM, which totaled 1,236 net redemptions, were the primary factor in this decline. However, a significant positive stablecoin FX impact of 978 ETH partially offset this, while Cover Fees (+111 ETH) and Investment returns (+59 ETH) also contributed positively.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM book value rose from 0.024153 to 0.024736, representing a 33.05% annualised increase for the month. This growth was primarily driven by the significant positive FX impact from stablecoin holdings, with additional contributions from Cover Fees, Investment Returns, and value added through the RAMM.",
+  "investment_summary_paragraph": "Active staking investments yielded between 1.1% and 2.7% APY, with stETH delivering the strongest return at 2.654% APY, followed by rETH at 2.076% APY, and the Enzyme Vault (EtherFi investments) at 1.082% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.502% APY.",
+  "investment_table": {
+    "steth_return": 25.337,
+    "steth_apy": 2.654,
+    "reth_return": 19.314,
+    "reth_apy": 2.076,
+    "enzyme_return": 14.107,
+    "enzyme_apy": 1.082,
+    "total_return": 58.758,
+    "total_apy": 1.502
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/investment_returns.png"
+  }
+}

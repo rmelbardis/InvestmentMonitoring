@@ -1,0 +1,11 @@
+{
+  "yyyymm": "202511",
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202511/investment_returns.png"
+  },
+  "investment_returns": "stETH Monthly Return: 25.337\nstETH Monthly APY: 2.654%\n\nrETH Monthly Return: 19.314\nrETH Monthly APY: 2.076%\n\nEnzyme Vault Monthly Return: 14.107\nEnzyme Vault Monthly APY: 1.082%\nEnzyme Vault includes EtherFi investments\n\nTotal ETH Earned: 58.758\nTotal Monthly APY: 1.502%\nBased on average Capital Pool amount over the monthly period\n\nAll returns after fees",
+  "summary": "State of the Capital Pool\n\nCapital Pool Percentage Change (ETH) = -0.19%\nOpening Capital Pool (ETH) = 47,320.86\nClosing Capital Pool (ETH) = 47,232.36\n\nOpening Book Value per NXM = 0.024153\nClosing Book Value per NXM = 0.024736\n\nrETH Divestment (CoW Swap fill), date: 24-11-2025, WETH received = 150.639\nrETH Divestment (CoW Swap fill), date: 25-11-2025, WETH received = 854.943\nrETH Divestment (CoW Swap fill), date: 26-11-2025, WETH received = 77.694"
+}
