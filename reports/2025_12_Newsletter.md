@@ -6,7 +6,7 @@ The Investment Committee team presents its December 2025 newsletter, where we sh
 
 ### Monthly Change - ETH value
 
-The Capital Pool increased by 0.18% in ETH terms this month, from 47.2k to 47.3k ETH. Investment returns were the primary driver of this growth, with the pool earning 69.349 ETH across all positions. RAMM redemptions and other outflows broadly offset the gains, resulting in the modest net increase.
+The Capital Pool increased by 0.18% in ETH terms this month, from 47.2k to 47.3k ETH. Cover fee income (95 ETH), investment returns (69 ETH), and a positive stablecoin FX impact (64 ETH) all contributed to the increase. Notably, RAMM net redemptions were significantly below recent months at just 144 ETH, allowing the three positive drivers to outweigh outflows.
 
 The various impacts on the capital pool are summarised in the waterfall chart below.
 
