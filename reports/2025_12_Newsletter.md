@@ -47,7 +47,7 @@ rETH Monthly APY: 1.990%
 
 Enzyme Vault Monthly Return: 28.48
 Enzyme Vault Monthly APY: 2.349%
-Enzyme Vault includes EtherFi investments
+Enzyme Vault includes EtherFi and Morpho Steakhouse Vault investments
 
 Total ETH Earned: 69.349
 Total Monthly APY: 1.775%
@@ -58,4 +58,4 @@ All returns after fees
 
 ![Investment Returns](charts/202512/investment_returns.png)
 
-Active staking investments yielded between 1.99% and 2.64% APY, reflecting steady ETH staking returns across all positions. The Enzyme vault, which includes EtherFi investments and now also the Morpho Steakhouse ETH Vault, returned 2.35% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.78% APY.
+Active investments yielded between 1.99% and 2.64% APY, reflecting steady ETH returns across all positions. The Enzyme vault, which includes EtherFi investments and now also the Morpho Steakhouse ETH Vault, returned 2.35% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.78% APY.
