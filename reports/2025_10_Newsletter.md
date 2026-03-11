@@ -58,4 +58,6 @@ All returns after fees
 
 ![Investment Returns](charts/202510/investment_returns.png)
 
+During the month, 2,001 WETH of stETH was sold via CoW Swap on 22 October, in line with the [Divestment Framework](https://forum.nexusmutual.io/t/nmpip-225-divestment-framework/1459). The returns figures above reflect performance net of this divestment.
+
 Active staking investments yielded between 1.5% and 2.8% APY this month, reflecting healthy ETH staking returns. Overall, based on the average Capital Pool value for the month, investments returned 1.8% APY.

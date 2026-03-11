@@ -58,4 +58,6 @@ All returns after fees
 
 ![Investment Returns](charts/202512/investment_returns.png)
 
-During the month, idle WETH within the Enzyme vault was allocated to the Morpho Steakhouse ETH Vault, which should contribute to a slightly higher Enzyme return going forward. Active investments yielded between 1.99% and 2.64% APY, reflecting steady ETH returns across all positions. The Enzyme vault, which includes EtherFi and Morpho Steakhouse Vault investments, returned 2.35% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.78% APY.
+During the month, 917 WETH of rETH was sold via CoW Swap on 1 December, in line with the [Divestment Framework](https://forum.nexusmutual.io/t/nmpip-225-divestment-framework/1459). The returns figures above reflect performance net of this divestment. Idle WETH within the Enzyme vault was also allocated to the Morpho Steakhouse ETH Vault during the month, which should contribute to a slightly higher Enzyme return going forward.
+
+Active investments yielded between 1.99% and 2.64% APY, reflecting steady ETH returns across all positions. The Enzyme vault, which includes EtherFi and Morpho Steakhouse Vault investments, returned 2.35% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.78% APY.

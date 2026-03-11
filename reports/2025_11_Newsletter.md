@@ -58,4 +58,6 @@ All returns after fees
 
 ![Investment Returns](charts/202511/investment_returns.png)
 
+During the month, 1,083 WETH of rETH was sold via CoW Swap over 24–26 November (three fills: 151 WETH, 855 WETH, and 78 WETH), in line with the [Divestment Framework](https://forum.nexusmutual.io/t/nmpip-225-divestment-framework/1459). The returns figures above reflect performance net of these divestments.
+
 Active staking investments yielded between 1.1% and 2.7% APY, with stETH delivering the strongest return at 2.654% APY, followed by rETH at 2.076% APY, and the Enzyme Vault (EtherFi investments) at 1.082% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.502% APY.
