@@ -16,7 +16,7 @@ The cover fee income is net of distribution commissions and excludes covers paid
 
 ### Monthly Change in NXM Book Value
 
-The Capital Pool's ETH/NXM book value rose from 0.024742 to 0.024838, representing a 4.76% annualised increase for the month. This growth was driven primarily by investment returns. During the month, idle WETH within the Enzyme vault was allocated to the Morpho Steakhouse ETH Vault, which should contribute to a slightly higher Enzyme return going forward.
+The Capital Pool's ETH/NXM book value rose from 0.024742 to 0.024838, representing a 4.76% annualised increase for the month. Investment returns (0.036), stablecoin FX impact (0.034), and cover fee income (0.025) all contributed to the gain.
 
 The various impacts on the capital pool are summarised in the waterfall chart below.
 
@@ -58,4 +58,4 @@ All returns after fees
 
 ![Investment Returns](charts/202512/investment_returns.png)
 
-Active investments yielded between 1.99% and 2.64% APY, reflecting steady ETH returns across all positions. The Enzyme vault, which includes EtherFi investments and now also the Morpho Steakhouse ETH Vault, returned 2.35% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.78% APY.
+During the month, idle WETH within the Enzyme vault was allocated to the Morpho Steakhouse ETH Vault, which should contribute to a slightly higher Enzyme return going forward. Active investments yielded between 1.99% and 2.64% APY, reflecting steady ETH returns across all positions. The Enzyme vault, which includes EtherFi and Morpho Steakhouse Vault investments, returned 2.35% APY. Overall, based on the average Capital Pool value for the month, investments returned 1.78% APY.
