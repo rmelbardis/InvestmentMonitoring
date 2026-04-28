@@ -1,0 +1,24 @@
+{
+  "yyyymm": "202603",
+  "month_year": "March 2026",
+  "intro": "The Investment Committee team presents its March 2026 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "capital_pool_eth_paragraph": "The Capital Pool decreased by 1.55% in ETH terms this month, from 49.1k to 48.4k ETH. A negative FX impact from stablecoin holdings of 583 ETH was the largest driver of the decline, with RAMM net redemptions accounting for a further 327 ETH outflow. Cover fee income of 73 ETH and investment returns of 74 ETH contributed positively but were not sufficient to offset outflows.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM book value declined from 0.02648 to 0.02622, a 0.95% decrease for the month. The drop was driven primarily by the negative FX impact from stablecoin holdings (-0.31 ETH/1000 NXM), which more than offset positive contributions from investment returns (+0.04) and cover fee income (+0.02). Value added through the RAMM was approximately neutral.",
+  "investment_summary_paragraph": "Active investments yielded between 2.1% and 2.7% APY this month. Overall, based on the average Capital Pool value for the month, investments returned 1.8% APY.",
+  "investment_table": {
+    "steth_return": 24.877,
+    "steth_apy": 2.584,
+    "reth_return": 16.628,
+    "reth_apy": 2.108,
+    "enzyme_return": 32.442,
+    "enzyme_apy": 2.686,
+    "total_return": 73.947,
+    "total_apy": 1.836
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202603/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202603/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202603/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202603/investment_returns.png"
+  }
+}
