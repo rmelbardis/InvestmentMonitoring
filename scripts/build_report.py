@@ -97,7 +97,7 @@ def build_report(content: dict, output_path: Path) -> None:
         "",
         f"Enzyme Vault Monthly Return: {t['enzyme_return']}",
         f"Enzyme Vault Monthly APY: {t['enzyme_apy']:.3f}%",
-        "Enzyme Vault includes EtherFi investments",
+        "Enzyme Vault includes EtherFi investments and the Morpho Steakhouse ETH Vault",
         "",
         f"Total ETH Earned: {t['total_return']}",
         f"Total Monthly APY: {t['total_apy']:.3f}%",

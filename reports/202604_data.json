@@ -1,0 +1,11 @@
+{
+  "yyyymm": "202604",
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/investment_returns.png"
+  },
+  "investment_returns": "stETH Monthly Return: 23.991\nstETH Monthly APY: 2.485%\n\nrETH Monthly Return: 16.412\nrETH Monthly APY: 2.077%\n\nEnzyme Vault Monthly Return: 5.696\nEnzyme Vault Monthly APY: 0.342%\nEnzyme Vault includes EtherFi and Morpho Steakhouse Vault investments\n\nTotal ETH Earned: 46.099\nTotal Monthly APY: 1.175%\nBased on average Capital Pool amount over the monthly period\n\nAll returns after fees",
+  "summary": "State of the Capital Pool\n\nCapital Pool Percentage Change (ETH) = -4.36%\nOpening Capital Pool (ETH) = 48,357.89\nClosing Capital Pool (ETH) = 46,250.93\n\nOpening Book Value per NXM = 0.026222\nClosing Book Value per NXM = 0.025996"
+}

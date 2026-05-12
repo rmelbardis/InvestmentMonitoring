@@ -1,0 +1,24 @@
+{
+  "yyyymm": "202604",
+  "month_year": "April 2026",
+  "intro": "The Investment Committee team presents its April 2026 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "capital_pool_eth_paragraph": "The Capital Pool decreased by 4.36% in ETH terms this month, from 48.4k to 46.3k ETH. RAMM net redemptions of 1,642 ETH were the largest driver of the decline, with a negative FX impact from stablecoin holdings of 607 ETH adding to the outflows. Cover fee income of 95 ETH and investment returns of 46 ETH contributed positively but were not sufficient to offset outflows.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM book value declined from 0.02622 to 0.02600, a 0.86% decrease for the month. The drop was driven by the negative FX impact from stablecoin holdings (-0.33 ETH/1000 NXM), which outweighed positive contributions from value added through the RAMM (+0.05), cover fee income (+0.03), and investment returns (+0.02).",
+  "investment_summary_paragraph": "Active investments yielded between 0.3% and 2.5% APY this month. The Enzyme vault's mark-to-market value in ETH was held back by widening eETH/ETH and weETH/ETH price discounts following the [April 18 LayerZero / KelpDAO bridge exploit](https://nexusmutual.io/blog/kelpdao-layerzero-incident-report). These discounts, persisting through to end of April, reduced the position's ETH-equivalent value by approximately 22 ETH, leaving the Enzyme Vault at a 5.7 ETH monthly return versus a typical 25-30 ETH. Underlying yield accrued normally, with ether.fi rebasing continuing at around 2.5% APY and the Steakhouse vault unit price appreciating 0.18% over the month (~2.2% APY). Overall, based on the average Capital Pool value for the month, investments returned 1.2% APY.",
+  "investment_table": {
+    "steth_return": 23.991,
+    "steth_apy": 2.485,
+    "reth_return": 16.412,
+    "reth_apy": 2.077,
+    "enzyme_return": 5.696,
+    "enzyme_apy": 0.342,
+    "total_return": 46.099,
+    "total_apy": 1.175
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202604/investment_returns.png"
+  }
+}
