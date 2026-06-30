@@ -1,0 +1,11 @@
+{
+  "yyyymm": "202605",
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/investment_returns.png"
+  },
+  "investment_returns": "stETH Monthly Return: 24.488\nstETH Monthly APY: 2.532%\n\nrETH Monthly Return: 13.671\nrETH Monthly APY: 2.086%\n\nEnzyme Vault Monthly Return: 40.012\nEnzyme Vault Monthly APY: 3.348%\nEnzyme Vault includes EtherFi and Morpho Steakhouse Vault investments\n\nTotal ETH Earned: 78.171\nTotal Monthly APY: 2.05%\nBased on average Capital Pool amount over the monthly period\n\nAll returns after fees",
+  "summary": "State of the Capital Pool\n\nCapital Pool Percentage Change (ETH) = -0.46%\nOpening Capital Pool (ETH) = 46,283.66\nClosing Capital Pool (ETH) = 46,071.75\n\nOpening Book Value per NXM = 0.026017\nClosing Book Value per NXM = 0.026545\n\nrETH Divestment (CoW Swap fill), date: 09-05-2026, WETH received = 2,326.098"
+}

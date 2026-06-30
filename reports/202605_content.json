@@ -1,0 +1,24 @@
+{
+  "yyyymm": "202605",
+  "month_year": "May 2026",
+  "intro": "The Investment Committee team presents its May 2026 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "capital_pool_eth_paragraph": "The Capital Pool decreased by 0.46% in ETH terms this month, from 46.3k to 46.1k ETH. RAMM net redemptions of 1,158 ETH (negative) were the primary driver of the decline. A positive FX impact from stablecoin holdings of 796 ETH, investment returns of 78 ETH, and cover fee income of 72 ETH all contributed positively but were not sufficient to fully offset the redemptions.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM book value rose from 0.02602 to 0.02654, a 2.03% increase for the month. The positive FX impact from stablecoin holdings (+0.45 ETH/1000 NXM) was the dominant driver, accounting for the bulk of the 0.52 ETH/1000 NXM total increase. Investment returns (+0.04), cover fee income (+0.02), value add from the RAMM (+0.02), and an unallocated residual (+0.02) made up the remainder.",
+  "investment_summary_paragraph": "Active investments yielded between 2.1% and 3.3% APY, with rETH at the low end and the Enzyme Vault at the high end. Overall, based on the average Capital Pool value for the month, investments returned 2.05% APY.",
+  "investment_table": {
+    "steth_return": 24.488,
+    "steth_apy": 2.532,
+    "reth_return": 13.671,
+    "reth_apy": 2.086,
+    "enzyme_return": 40.012,
+    "enzyme_apy": 3.348,
+    "total_return": 78.171,
+    "total_apy": 2.05
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/InvestmentMonitoring/reports/charts/202605/investment_returns.png"
+  }
+}
