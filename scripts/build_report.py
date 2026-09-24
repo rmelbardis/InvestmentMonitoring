@@ -41,6 +41,10 @@ def build_report(content: dict, output_path: Path) -> None:
         "",
     ]
 
+    # Optional one-off note (e.g. a reporting change), shown before the first section
+    if content.get("update_note"):
+        lines += [content["update_note"], ""]
+
     # State of the Capital Pool
     lines += [
         "## State of the Capital Pool",
@@ -63,6 +67,8 @@ def build_report(content: dict, output_path: Path) -> None:
         "The various impacts on the capital pool are summarised in the waterfall chart below.",
         "",
         f"![Book Value Waterfall]({rel_chart(yyyymm, 'waterfall_bv')})",
+        "",
+        "Cover-related mints and burns note: This item combines NXM burns and mints from staking rewards, claim burns, cover edits (including \"burning\" of yet-to-be-streamed staking rewards) and covers paid for with NXM.",
         "",
         f"→ Members can track protocol's revenue on the [Financials Dune Dashboard]({DUNE_FINANCIALS})",
         f"→ Members can track in/outflows on the [Ratcheting AMM Dune Dashboard]({DUNE_RAMM})",
@@ -99,6 +105,11 @@ def build_report(content: dict, output_path: Path) -> None:
         f"Enzyme Vault Monthly APY: {t['enzyme_apy']:.3f}%",
         "Enzyme Vault includes EtherFi investments and the Morpho Steakhouse ETH Vault",
         "",
+        f"EtherFi Monthly Return: {t['etherfi_return']}",
+        f"EtherFi Monthly APY: {t['etherfi_apy']:.3f}%",
+        f"Morpho Steakhouse Monthly Return: {t['steakhouse_return']}",
+        f"Morpho Steakhouse Monthly APY: {t['steakhouse_apy']:.3f}%",
+        "",
         f"Total ETH Earned: {t['total_return']}",
         f"Total Monthly APY: {t['total_apy']:.3f}%",
         "Based on average Capital Pool amount over the monthly period",
@@ -107,6 +118,8 @@ def build_report(content: dict, output_path: Path) -> None:
         "```",
         "",
         f"![Investment Returns]({rel_chart(yyyymm, 'investment_returns')})",
+        "",
+        "EtherFi's weETH is valued at its market price, so its monthly returns also include minor market price moves.",
         "",
         content["investment_summary_paragraph"],
         "",

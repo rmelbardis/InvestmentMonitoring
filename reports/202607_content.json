@@ -1,0 +1,28 @@
+{
+  "yyyymm": "202607",
+  "month_year": "July 2026",
+  "intro": "The Investment Committee team presents its July 2026 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "capital_pool_eth_paragraph": "The Capital Pool decreased by 3.61% in ETH terms this month, from 47.8k to 46.1k ETH. A negative FX impact of 1,581 ETH from the pool's non-ETH holdings (USD-denominated assets and cbBTC) was the primary driver, as ETH rose against the dollar over the month. RAMM net redemptions of 406 ETH (negative) also reduced the pool. Cover fee income of 199 ETH and investment returns of 63 ETH contributed positively.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM book value fell from 0.02785 to 0.02703, a 2.94% decrease for the month. The negative FX impact (-0.921 ETH/1000 NXM) was larger than the total decrease of 0.819 ETH/1000 NXM. Cover fee income (+0.116), investment returns (+0.037) and value add from the RAMM (+0.004) partly offset it, while cover-related mints and burns reduced book value by a further 0.055.",
+  "investment_summary_paragraph": "Active investments yielded between 1.5% and 2.9% APY, with the Morpho Steakhouse ETH Vault at the low end and EtherFi at the high end. EtherFi is valued at the weETH market price, so its return includes market price moves as well as staking yield. Overall, based on the average Capital Pool value for the month, investments returned 1.63% APY.",
+  "investment_table": {
+    "steth_return": 22.199,
+    "steth_apy": 2.284,
+    "reth_return": 13.721,
+    "reth_apy": 2.283,
+    "enzyme_return": 27.358,
+    "enzyme_apy": 2.366,
+    "etherfi_return": 21.113,
+    "etherfi_apy": 2.905,
+    "steakhouse_return": 6.245,
+    "steakhouse_apy": 1.454,
+    "total_return": 63.278,
+    "total_apy": 1.629
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202607/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202607/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202607/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202607/investment_returns.png"
+  }
+}

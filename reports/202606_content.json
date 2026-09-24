@@ -1,0 +1,29 @@
+{
+  "yyyymm": "202606",
+  "month_year": "June 2026",
+  "intro": "The Investment Committee team presents its June 2026 newsletter, where we share insights surrounding the Capital Pool and Nexus Mutual's investments. The goal is to make key data transparent and easily accessible to everyone.",
+  "update_note": "We're catching up on a backlog of monthly newsletters, covering June 2026 to August 2026. The individual monthly reports are posted as replies to this thread.\n\nFrom the June report onwards, we report the Enzyme Vault's two constituent parts separately: EtherFi and the Morpho Steakhouse ETH Vault. We have also updated both waterfall charts to more comprehensively and accurately capture changes and ensure the final balance corresponds to the closing Capital Pool value. Cover fee income is now measured from the premiums the Capital Pool receives onchain, including those paid in cbBTC, with each premium valued in ETH on the day it arrives. The book value chart has a new item, cover-related mints and burns, explained below the chart.",
+  "capital_pool_eth_paragraph": "The Capital Pool increased by 3.80% in ETH terms this month, from 46.1k to 47.8k ETH. A positive FX impact of 2,093 ETH from the pool's non-ETH holdings (USD-denominated assets and cbBTC) was the primary driver, as ETH fell against the dollar over the month. Cover fee income of 113 ETH and investment returns of 58 ETH also contributed positively. RAMM net redemptions of 512 ETH (negative) were the only outflow.",
+  "capital_pool_bv_paragraph": "The Capital Pool's ETH/NXM book value rose from 0.02657 to 0.02785, a 4.84% increase for the month. The positive FX impact (+1.212 ETH/1000 NXM) accounted for 94% of the 1.286 ETH/1000 NXM total increase. Cover fee income (+0.065), investment returns (+0.034) and value add from the RAMM (+0.004) added to this, while cover-related mints and burns reduced book value by 0.029.",
+  "investment_summary_paragraph": "Active investments yielded between 1.5% and 2.4% APY, with the Morpho Steakhouse ETH Vault at the low end and stETH at the high end. Overall, based on the average Capital Pool value for the month, investments returned 1.49% APY.",
+  "investment_table": {
+    "steth_return": 23.437,
+    "steth_apy": 2.417,
+    "reth_return": 11.918,
+    "reth_apy": 1.984,
+    "enzyme_return": 22.523,
+    "enzyme_apy": 1.947,
+    "etherfi_return": 16.276,
+    "etherfi_apy": 2.238,
+    "steakhouse_return": 6.246,
+    "steakhouse_apy": 1.454,
+    "total_return": 57.878,
+    "total_apy": 1.489
+  },
+  "chart_paths": {
+    "waterfall_eth": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202606/waterfall_eth.png",
+    "waterfall_bv": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202606/waterfall_bv.png",
+    "pie_chart": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202606/pie_chart.png",
+    "investment_returns": "/home/rei/code/rmelbardis/Leonardo/InvestmentMonitoring/reports/charts/202606/investment_returns.png"
+  }
+}
